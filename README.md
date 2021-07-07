@@ -41,7 +41,7 @@
 
 [Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder.](https://www.amazon.com/Blue-Team-Handbook-condensed-Responder/dp/1500734756/ref=sr_1_1?dchild=1&keywords=Blue+Team+Handbook%3A+Incident+Response+Edition%3A+A+condensed+field+guide+for+the+Cyber+Security+Incident+Responder.&qid=1625642438&s=books&sr=1-1)
  
-Cloud Storage Forensics
+[Cloud Storage Forensics](https://www.amazon.com/Cloud-Storage-Forensics-Darren-Quick-ebook/dp/B00GWMD6Q0/ref=sr_1_1?dchild=1&keywords=Cloud+Storage+Forensics&qid=1625643883&s=books&sr=1-1)
  
 Computer Forensics InfoSec Pro Guide
  
