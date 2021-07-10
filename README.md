@@ -79,31 +79,31 @@
  
 [Practical Mobile Forensics](https://www.amazon.com/Practical-Mobile-Forensics-Forensically-investigate/dp/183864752X/ref=sr_1_1?dchild=1&keywords=Practical+Mobile+Forensics&qid=1625645829&s=books&sr=1-1)
  
-[Practical Packet Analysis: Using Wireshark to Solve Real-World Network Problems] (https://www.amazon.com/Practical-Packet-Analysis-Wireshark-Real-World/dp/1593278020/ref=sr_1_1?dchild=1&keywords=Practical+Packet+Analysis%3A+Using+Wireshark+to+Solve+Real-World+Network+Problems&qid=1625645843&s=books&sr=1-1)
+[Practical Packet Analysis: Using Wireshark to Solve Real-World Network Problems](https://www.amazon.com/Practical-Packet-Analysis-Wireshark-Real-World/dp/1593278020/ref=sr_1_1?dchild=1&keywords=Practical+Packet+Analysis%3A+Using+Wireshark+to+Solve+Real-World+Network+Problems&qid=1625645843&s=books&sr=1-1)
  
-[Real Digital Forensics: Computer Security and Incident Response] (https://www.amazon.com/Real-Digital-Forensics-Computer-Security/dp/0321240693/ref=sr_1_1?dchild=1&keywords=Real+Digital+Forensics%3A+Computer+Security+and+Incident+Response&qid=1625645855&s=books&sr=1-1)
+[Real Digital Forensics: Computer Security and Incident Response](https://www.amazon.com/Real-Digital-Forensics-Computer-Security/dp/0321240693/ref=sr_1_1?dchild=1&keywords=Real+Digital+Forensics%3A+Computer+Security+and+Incident+Response&qid=1625645855&s=books&sr=1-1)
  
-[Rtfm: Red Team Field Manual] (https://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504/ref=sr_1_1?dchild=1&keywords=Rtfm%3A+Red+Team+Field+Manual&qid=1625645867&s=books&sr=1-1)
+[Rtfm: Red Team Field Manual](https://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504/ref=sr_1_1?dchild=1&keywords=Rtfm%3A+Red+Team+Field+Manual&qid=1625645867&s=books&sr=1-1)
  
 [SQL Server Forensic Analysis](https://www.amazon.com/Server-Forensic-Analysis-Kevvie-Fowler/dp/0321544366/ref=sr_1_1?dchild=1&keywords=SQL+Server+Forensic+Analysis&qid=1625645888&s=books&sr=1-1)
  
-[The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory] (https://www.amazon.com/Art-Memory-Forensics-Detecting-Malware/dp/1118825098/ref=sr_1_1?dchild=1&keywords=The+Art+of+Memory+Forensics%3A+Detecting+Malware+and+Threats+in+Windows%2C+Linux%2C+and+Mac+Memory&qid=1625645904&s=books&sr=1-1)
+[The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory](https://www.amazon.com/Art-Memory-Forensics-Detecting-Malware/dp/1118825098/ref=sr_1_1?dchild=1&keywords=The+Art+of+Memory+Forensics%3A+Detecting+Malware+and+Threats+in+Windows%2C+Linux%2C+and+Mac+Memory&qid=1625645904&s=books&sr=1-1)
  
-[The Practice of Network Security Monitoring: Understanding Incident Detection and Response] (https://www.amazon.com/Practice-Network-Security-Monitoring-Understanding/dp/1593275099/ref=sr_1_1?dchild=1&keywords=The+Practice+of+Network+Security+Monitoring%3A+Understanding+Incident+Detection+and+Response&qid=1625645918&s=books&sr=1-1)
+[The Practice of Network Security Monitoring: Understanding Incident Detection and Response](https://www.amazon.com/Practice-Network-Security-Monitoring-Understanding/dp/1593275099/ref=sr_1_1?dchild=1&keywords=The+Practice+of+Network+Security+Monitoring%3A+Understanding+Incident+Detection+and+Response&qid=1625645918&s=books&sr=1-1)
  
 [Windows Forensic Analysis Toolkit, Fourth Edition: Advanced Analysis Techniques for Windows 8](https://www.amazon.com/Windows-Forensic-Analysis-Toolkit-Techniques/dp/0124171575/ref=sr_1_fkmr0_1?dchild=1&keywords=Windows+Forensic+Analysis+Toolkit%2C+Fourth+Edition%3A+Advanced+Analysis+Techniques+for+Windows+8&qid=1625645930&s=books&sr=1-1-fkmr0)
  
 [Windows Internals, Part 1 (6th Edition) (Developer Reference)](https://www.amazon.com/Windows-Internals-Part-Developer-Reference-ebook/dp/B00JDMPHIG/ref=sr_1_1?dchild=1&keywords=Windows+Internals%2C+Part+1+%286th+Edition%29+%28Developer+Reference%29&qid=1625645945&s=books&sr=1-1)
  
-[Windows® Internals, Part 2] (https://www.amazon.com/Windows-Internals-Part-Developer-Reference-ebook/dp/B00JDMPIDU/ref=sr_1_2?dchild=1&keywords=Windows+Internals%2C+Part+1+%286th+Edition%29+%28Developer+Reference%29&qid=1625645964&s=books&sr=1-2)
+[Windows® Internals, Part 2](https://www.amazon.com/Windows-Internals-Part-Developer-Reference-ebook/dp/B00JDMPIDU/ref=sr_1_2?dchild=1&keywords=Windows+Internals%2C+Part+1+%286th+Edition%29+%28Developer+Reference%29&qid=1625645964&s=books&sr=1-2)
  
 [Windows Internals, Part 1: System architecture, processes, threads, memory management, and more (7th Edition)](https://www.amazon.com/Windows-Internals-Part-architecture-management/dp/0735684189/ref=sr_1_1?dchild=1&keywords=Windows+Internals%2C+Part+1%3A+System+architecture%2C+processes%2C+threads%2C+memory+management%2C+and+more+%287th+Edition%29&qid=1625645989&s=books&sr=1-1)
  
-[Windows Sysinternals Administrator's Reference] (https://www.amazon.com/Windows%C2%AE-Sysinternals-Administrators-Reference-Russinovich/dp/B00CVDY3Y8/ref=sr_1_1?dchild=1&keywords=Windows+Sysinternals+Administrator%27s+Reference&qid=1625646006&s=books&sr=1-1)
+[Windows Sysinternals Administrator's Reference](https://www.amazon.com/Windows%C2%AE-Sysinternals-Administrators-Reference-Russinovich/dp/B00CVDY3Y8/ref=sr_1_1?dchild=1&keywords=Windows+Sysinternals+Administrator%27s+Reference&qid=1625646006&s=books&sr=1-1)
  
-[Wireshark 101: Essential Skills for Network Analysis (Wireshark Solutions) ](https://www.amazon.com/Wireshark-101-Essential-Analysis-Solution/dp/1893939758/ref=sr_1_1?dchild=1&keywords=Wireshark+101%3A+Essential+Skills+for+Network+Analysis+%28Wireshark+Solutions%29&qid=1625646020&s=books&sr=1-1)
+[Wireshark 101: Essential Skills for Network Analysis (Wireshark Solutions)](https://www.amazon.com/Wireshark-101-Essential-Analysis-Solution/dp/1893939758/ref=sr_1_1?dchild=1&keywords=Wireshark+101%3A+Essential+Skills+for+Network+Analysis+%28Wireshark+Solutions%29&qid=1625646020&s=books&sr=1-1)
  
-[Wireshark Network Analysis: The Official Wireshark Certified Network Analyst Study Guide] (https://www.amazon.com/Wireshark-Network-Analysis-Second-Certified/dp/1893939944/ref=sr_1_1?dchild=1&keywords=Wireshark+Network+Analysis%3A+The+Official+Wireshark+Certified+Network+Analyst+Study+Guide&qid=1625646038&s=books&sr=1-1)
+[Wireshark Network Analysis: The Official Wireshark Certified Network Analyst Study Guide](https://www.amazon.com/Wireshark-Network-Analysis-Second-Certified/dp/1893939944/ref=sr_1_1?dchild=1&keywords=Wireshark+Network+Analysis%3A+The+Official+Wireshark+Certified+Network+Analyst+Study+Guide&qid=1625646038&s=books&sr=1-1)
  
 [Threat Modeling: Designing for Security](https://www.amazon.com/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998/ref=sr_1_1?dchild=1&keywords=Threat+Modeling%3A+Designing+for+Security&qid=1625646050&s=books&sr=1-1)
  
@@ -117,7 +117,7 @@
  
 [Psychological and Behavioral Examinations in Cyber Security (Advances in Digital Crime, Forensics, and Cyber Terrorism)](https://www.amazon.com/Psychological-Behavioral-Examinations-Forensics-Terrorism/dp/1522540539/ref=sr_1_1?dchild=1&keywords=Psychological+and+Behavioral+Examinations+in+Cyber+Security+%28Advances+in+Digital+Crime%2C+Forensics%2C+and+Cyber+Terrorism%29&qid=1625646112&s=books&sr=1-1)
  
-[Social Media Investigation for Law Enforcement (Forensic Studies for Criminal Justice)] (https://www.amazon.com/Investigation-Enforcement-Forensic-Studies-Criminal-ebook/dp/B00NXQHU24/ref=sr_1_1?dchild=1&keywords=Social+Media+Investigation+for+Law+Enforcement+%28Forensic+Studies+for+Criminal+Justice%29&qid=1625646127&s=books&sr=1-1)
+[Social Media Investigation for Law Enforcement (Forensic Studies for Criminal Justice)](https://www.amazon.com/Investigation-Enforcement-Forensic-Studies-Criminal-ebook/dp/B00NXQHU24/ref=sr_1_1?dchild=1&keywords=Social+Media+Investigation+for+Law+Enforcement+%28Forensic+Studies+for+Criminal+Justice%29&qid=1625646127&s=books&sr=1-1)
  
-[System Forensics, Investigation, and Response (Information Systems Security & Assurance)](https://www.amazon.com/Forensics-Investigation-Response-Information-Assurance/dp/1284121844/ref=sr_1_1?dchild=1&keywords=System+Forensics%2C+Investigation%2C+and+Response+%28Information+Systems+Security+%26+Assurance%29&qid=1625646139&s=books&sr=1-1)
+[System Forensics, Investigation, and Response (Information Systems Security & Assurance](https://www.amazon.com/Forensics-Investigation-Response-Information-Assurance/dp/1284121844/ref=sr_1_1?dchild=1&keywords=System+Forensics%2C+Investigation%2C+and+Response+%28Information+Systems+Security+%26+Assurance%29&qid=1625646139&s=books&sr=1-1)
 
