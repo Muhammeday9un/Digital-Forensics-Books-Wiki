@@ -1,5 +1,9 @@
-# Digital-Forensics-Books-Wiki
+# DFIR İle İlgili Tüm Kitaplar
+# DFIR Books-Wiki
 
+DFIR alanıyla ilgili tüm toparlamış olduğum kitapları listeledim. Tüm kitapları Amazon'da olmasının herhangi bir nedeni yok :) sadece tüm kitapları orada görebiliriz. Kitapların kapakları özet bilgileri çok güzel bir şekilde gösterilmişti ondan dolayı Amazon sitesini sizlerle paylaştım.  
+
+I have listed all the books I have collected on the DFIR field. There is no reason why all the books are on Amazon :) we can only see all the books there. The covers of the books and the summary information were shown very well, so I shared the Amazon site with you. 
  
 [Mastering Python Forensics](https://www.amazon.com.tr/Mastering-Python-Forensics-forensics-Spreitzenbarth/dp/1783988045/ref=sr_1_1?__mk_tr_TR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Mastering+Python+Forensics&qid=1625641367&sr=8-1)
  
